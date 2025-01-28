@@ -7,4 +7,4 @@ I'm studing in "Faridpur Polytechnic Institute"
 This is my portfolio, made with simple •html •css •java_scripts
 Contact me: aviroy2005@gmail.com
 
-Visit the portfolio: https://royavi21.github.io/Avijit_Portfolio/
+**Visit the portfolio: https://royavi21.github.io/Avijit_Portfolio/
