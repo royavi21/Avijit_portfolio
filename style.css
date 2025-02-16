@@ -371,6 +371,7 @@ p {
 	font-size: 1.8rem;
 	font-weight: 500;
 	margin-top: 10px;
+	color: white;
 }
 #projects .project-info p {
 	color: white;
@@ -701,3 +702,10 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+.project-info h2 a {
+    color: rgb(0, 137, 229);
+}
+.project-info h2 a:hover {
+    color: crimson;
+}
